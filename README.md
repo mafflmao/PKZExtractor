@@ -5,5 +5,7 @@
 # Usage
 PKZExtractor <path to decompressed .pkz file>
 
+![PKZExtractor Logo](https://github.com/mafflmao/PKZExtractor/blob/main/logo.png)
+
 # Credits
 https://github.com/vgmstream/vgmstream - vgmstream (used to convert .wem to .wav)
